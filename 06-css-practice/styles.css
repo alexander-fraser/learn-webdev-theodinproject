@@ -1,0 +1,27 @@
+* {
+    color: purple;
+}
+
+div {
+    color: grey;
+}
+
+.alert-text {
+    color: red;
+}
+
+.severe-alert {
+    font-style: italic;
+}
+
+#title {
+    background-color: red;
+}
+
+.subsection.header {
+    color: red;
+}
+
+.subsection#preview {
+    color: blue;
+}
