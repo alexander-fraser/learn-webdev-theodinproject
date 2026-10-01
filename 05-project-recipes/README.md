@@ -1,5 +1,5 @@
-# 05-odin-recipes
-This is Recipes Project at the end of the HTML section.
+# 05-project-recipes
+This is the Recipes Project at the end of TOP's HTML section.
 
 Photo credit:
 Cookies: Thomas Franke
